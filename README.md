@@ -1,5 +1,7 @@
 # Algorithm_01
 #### 1. Model 
+![Model](https://user-images.githubusercontent.com/77233773/121811185-96b0cb80-cc9e-11eb-9605-b34adcb23921.PNG)
+
 
 #### 2. Training with Training loss 
 
