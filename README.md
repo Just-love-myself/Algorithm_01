@@ -4,19 +4,36 @@
 
 
 #### 2. Training with Training loss 
+Model_1 :
+![Model1 트레이닝](https://user-images.githubusercontent.com/77233773/121811308-f5764500-cc9e-11eb-9f5c-cb9bf9247dae.PNG)
+
+Model_2 :
+
+Model_3 :
 
 #### 3. Test Accuracy
+Model_1 :
+![Model1 정확도](https://user-images.githubusercontent.com/77233773/121811316-fc04bc80-cc9e-11eb-9cd3-4b483e043e7c.PNG)
+
+Model_2 :
+
+Model_3 :
 
 #### 4. Images and corresponding probability that predicted Right 
-![succ_1](https://user-images.githubusercontent.com/77233773/121810037-2ef88180-cc9a-11eb-8547-c7bfe47a12ce.PNG)
-![succ_2](https://user-images.githubusercontent.com/77233773/121810035-2e5feb00-cc9a-11eb-9bb4-f249ece929d7.PNG)
-![succ_3](https://user-images.githubusercontent.com/77233773/121810039-2f911800-cc9a-11eb-8980-d6cb546c6f58.PNG)
+Model_1 :
+![model1_succ](https://user-images.githubusercontent.com/77233773/121811395-4be38380-cc9f-11eb-9695-cb670fa9673f.PNG)
+
+Model_2 :
+
+Model_3 :
 
 #### 5. Images and corresponding probability that predicted Wrong
-![fail_1](https://user-images.githubusercontent.com/77233773/121809938-c8736380-cc99-11eb-90df-5aa5d1be6baf.PNG)
-![fail_2](https://user-images.githubusercontent.com/77233773/121810003-0cfeff00-cc9a-11eb-8da2-5c8508ed0b3b.PNG)
-![fail_3](https://user-images.githubusercontent.com/77233773/121810006-0ff9ef80-cc9a-11eb-8470-c65feb6bfa09.PNG)
+Model_1 :
+![Model1_fail](https://user-images.githubusercontent.com/77233773/121811403-4f770a80-cc9f-11eb-80ce-8f0d9052271e.PNG)
 
+Model_2 :
+
+Model_3 :
 
 
 
