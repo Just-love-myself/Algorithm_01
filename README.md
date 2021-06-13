@@ -6,7 +6,7 @@ Fail_case
 ![fail_2](https://user-images.githubusercontent.com/77233773/121810003-0cfeff00-cc9a-11eb-8da2-5c8508ed0b3b.PNG)
 ![fail_3](https://user-images.githubusercontent.com/77233773/121810006-0ff9ef80-cc9a-11eb-8470-c65feb6bfa09.PNG)
 
-Scuccess_case
+Success_case
 
 ![succ_1](https://user-images.githubusercontent.com/77233773/121810037-2ef88180-cc9a-11eb-8547-c7bfe47a12ce.PNG)
 ![succ_2](https://user-images.githubusercontent.com/77233773/121810035-2e5feb00-cc9a-11eb-9bb4-f249ece929d7.PNG)
