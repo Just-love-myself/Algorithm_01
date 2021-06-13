@@ -21,7 +21,7 @@
 
 ### 4. Images and corresponding probability that predicted Right 
 #### Model_1 :
-![model1_succ](https://user-images.githubusercontent.com/77233773/121811395-4be38380-cc9f-11eb-9695-cb670fa9673f.PNG)
+![succ_1](https://user-images.githubusercontent.com/77233773/121811651-02476880-cca0-11eb-8cfa-b747e20848e1.PNG)
 
 #### Model_2 :
 
